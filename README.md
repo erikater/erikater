@@ -1,5 +1,9 @@
 ## ¡Bienvenido a mi perfil! 👋
 
+<p align="center">
+  <img src="" alt="Banner de GitHub" width="100%">
+</p>
+
 Soy Ingeniera Industrial con experiencia de mas de 6 años en optimización y mejoramiento de procesos. Actualmente estoy en formación como Analista de Datos en Tripleten LATAM. Tengo habilidades en limpieza, visualización y análisis de datos usando herramientas como Excel, Python, SQL, Power BI.
 
 Me apasiona transformar datos en información útil para la toma de decisiones estratégicas y diseño de campañas. 
