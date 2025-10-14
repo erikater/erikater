@@ -8,10 +8,14 @@ Soy Ingeniera Industrial con experiencia de mas de 6 años en optimización y me
 
 Me apasiona transformar datos en información útil para la toma de decisiones estratégicas y diseño de campañas. 
 
-Busco oportunidades como Analista de Datos Junior o Asistente de Ciencia de Datos, para asì fortalecer cada vez mas mis habilidades y conocimientos en este campo y crecer profesionalmente. 
+Busco oportunidades como Analista de Datos Junior o Asistente de Ciencia de Datos, para así practicar, fortalecer cada vez mas mis habilidades y conocimientos en este campo y crecer profesionalmente. 
 
 🔍 Abierta a oportunidades remotas o híbridas en Latinoamérica.
 
-Herramientas: Excel · Power BI · Python · Pandas · Matplotlib, entre otras.
+## 💻 Habilidades Técnicas
 
-Puedes conocer más acerca de mi experiencia profesional en linkedin. Contáctame! 
+| Nivel | Herramientas |
+|:------:|:--------------|
+| 🟢 **Avanzado** | ![Excel](https://img.shields.io/badge/Microsoft%20Excel-Avanzado-brightgreen?style=for-the-badge&logo=microsoftexcel&logoColor=white) ![Jupyter](https://img.shields.io/badge/Jupyter%20Notebook%2FLab-Avanzado-F37626?style=for-the-badge&logo=jupyter&logoColor=white) |
+| 🟠 **Intermedio** | ![Google Colab](https://img.shields.io/badge/Google%20Colab-Intermedio-orange?style=for-the-badge&logo=googlecolab&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-Intermedio-black?style=for-the-badge&logo=github&logoColor=white) |
+| 🔵 **Básico** | ![VS Code](https://img.shields.io/badge/Visual%20Studio%20Code-B%C3%A1sico-blue?style=for-the-badge&logo=visualstudiocode&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-B%C3%A1sico-0078D7?style=for-the-badge&logo=powershell&logoColor=white) ![Power BI](https://img.shields.io/badge/Power%20BI-B%C3%A1sico-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) |
