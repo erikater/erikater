@@ -1,7 +1,7 @@
 ## ¡Bienvenido a mi perfil! 👋
 
 <p align="center">
-  <img src="" alt="Banner de GitHub" width="100%">
+  <img src="https://github.com/erikater/erikater/blob/ead101088df24b13b35f9c44a2c66cca0d1c99b8/Miniatura%20de%20Youtube%20Ciencia%20de%20datos%20Ilustrativo%20Azul.png" alt="Banner de GitHub" width="100%">
 </p>
 
 Soy Ingeniera Industrial con experiencia de mas de 6 años en optimización y mejoramiento de procesos. Actualmente estoy en formación como Analista de Datos en Tripleten LATAM. Tengo habilidades en limpieza, visualización y análisis de datos usando herramientas como Excel, Python, SQL, Power BI.
