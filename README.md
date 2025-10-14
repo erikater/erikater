@@ -10,4 +10,4 @@ Busco oportunidades como Analista de Datos Junior o Asistente de Ciencia de Dato
 
 Herramientas: Excel · Power BI · Python · Pandas · Matplotlib, entre otras.
 
-Puedes conocer más acerca de mi experiencia profesional en linkedin. Contàctame! 
+Puedes conocer más acerca de mi experiencia profesional en linkedin. Contáctame! 
